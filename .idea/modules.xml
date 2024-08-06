@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flutter_clean_calendar.iml" filepath="$PROJECT_DIR$/flutter_clean_calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flutter_clean_calendar.iml" filepath="$PROJECT_DIR$/.idea/flutter_clean_calendar.iml" />
     </modules>
   </component>
 </project>
